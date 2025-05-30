@@ -572,7 +572,7 @@
                       "flex flex-col items-center justify-center gap-3",
                     children: [
                       (0, a.jsx)(w.default, {
-                        href: "https://etherscan.io/token/0xcomingsoon",
+                        href: "https://etherscan.io/token/0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7",
                         target: "_blank",
                         className:
                           "font-sundayBest text-xs hover:text-neutral-300",
@@ -587,12 +587,12 @@
                             children: [
                               "Copy",
                               (0, a.jsx)(b, {
-                                text: "0xcomingsoon",
+                                text: "0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7",
                               }),
                             ],
                           }),
                           (0, a.jsxs)(w.default, {
-                            href: "https://etherscan.io/token/0xcomingsoon",
+                            href: "https://etherscan.io/token/0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7",
                             target: "_blank",
                             className:
                               "flex flex-row items-center justify-center gap-2 font-sundayBest text-xs",
@@ -636,7 +636,7 @@
                           (0, a.jsxs)(w.default, {
                             className:
                               "flex flex-row items-center justify-center gap-2 text-nowrap rounded-full bg-[#5e8f83] px-4 py-2 hover:bg-white hover:text-black",
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7&chain=mainnet",
                             target: "_blank",
                             children: ["Buy", (0, a.jsx)(v.gjK, { size: 20 })],
                           }),
@@ -695,7 +695,7 @@
                 }),
               }),
               (0, a.jsx)(w.default, {
-                href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ether/pair-explorer/0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: "hover:scale-110",
@@ -707,7 +707,7 @@
                 }),
               }),
               (0, a.jsx)(w.default, {
-                href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                href: "https://dexscreener.com/ethereum/0x1775c6bef948e155fc5ff3f5e75f40ed2c934cb7",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className: "hover:scale-110",
