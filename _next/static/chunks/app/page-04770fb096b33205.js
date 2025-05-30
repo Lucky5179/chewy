@@ -152,27 +152,27 @@
                   }),
                 }),
               }),
-              (0, a.jsxs)("div", {
-                className:
-                  "flex flex-row items-center gap-4 rounded-full ".concat(
-                    "home" === t ? "bg-black" : "bg-none",
-                    " px-5 py-2"
-                  ),
-                children: [
-                  "home" === t &&
-                    (0, a.jsxs)(a.Fragment, {
-                      children: [
-                        s("#about", "About"),
-                        (0, a.jsx)(n, {}),
-                        s("#chewynomics", "Chewynomics"),
-                        (0, a.jsx)(n, {}),
-                        s("#howget", "How to Get"),
-                      ],
-                    }),
-                  "other" === t &&
-                    (0, a.jsx)(a.Fragment, { children: s("/", "Home") }),
-                ],
-              }),
+              // (0, a.jsxs)("div", {
+              //   className:
+              //     "flex flex-row items-center gap-4 rounded-full ".concat(
+              //       "home" === t ? "bg-black" : "bg-none",
+              //       " px-5 py-2"
+              //     ),
+              //   children: [
+              //     "home" === t &&
+              //       (0, a.jsxs)(a.Fragment, {
+              //         children: [
+              //           // s("#about", "About"),
+              //           // (0, a.jsx)(n, {}),
+              //           // s("#chewynomics", "Chewynomics"),
+              //           // (0, a.jsx)(n, {}),
+              //           // s("#howget", "How to Get"),
+              //         ],
+              //       }),
+              //     "other" === t &&
+              //       (0, a.jsx)(a.Fragment, { children: s("/", "Home") }),
+              //   ],
+              // }),
             ],
           });
         },
@@ -228,30 +228,25 @@
                       (0, a.jsxs)("section", {
                         className: "mt-16 flex flex-col items-center gap-4",
                         children: [
-                          (0, a.jsx)(r.default, {
-                            href: "/",
-                            className:
-                              "rounded-md px-3 font-sundayBest text-2xl hover:scale-105",
-                            children: "CHEWY",
-                          }),
-                          (0, a.jsx)(r.default, {
-                            href: "#chewynomics",
-                            className:
-                              "rounded-md px-3 font-sundayBest text-xl hover:scale-105",
-                            children: "Chewynomics",
-                          }),
-                          (0, a.jsx)(r.default, {
-                            href: "#howget",
-                            className:
-                              "rounded-md px-3 font-sundayBest text-xl hover:scale-105",
-                            children: "How to Get",
-                          }),
-                          (0, a.jsx)(r.default, {
-                            href: "/claim",
-                            className:
-                              "rounded-md px-3 font-sundayBest text-xl hover:scale-105",
-                            children: "Claim",
-                          }),
+                          // (0, a.jsx)(r.default, {
+                          //   href: "/",
+                          //   className:
+                          //     "rounded-md px-3 font-sundayBest text-2xl hover:scale-105",
+                          //   children: "CHEWY",
+                          // }),
+                          // (0, a.jsx)(r.default, {
+                          //   href: "#chewynomics",
+                          //   className:
+                          //     "rounded-md px-3 font-sundayBest text-xl hover:scale-105",
+                          //   children: "Chewynomics",
+                          // }),
+                          // (0, a.jsx)(r.default, {
+                          //   href: "#howget",
+                          //   className:
+                          //     "rounded-md px-3 font-sundayBest text-xl hover:scale-105",
+                          //   children: "How to Get",
+                          // }),
+
                         ],
                       }),
                     ],
@@ -742,18 +737,18 @@
                     className:
                       "flex flex-col items-center justify-center gap-4 px-2 py-4 text-2xl md:items-start md:gap-6 md:px-6 md:py-6 md:text-4xl",
                     children: [
-                      (0, a.jsx)(w.default, {
-                        href: "#chewynomics",
-                        children: "Chewynomics",
-                      }),
-                      (0, a.jsx)(w.default, {
-                        href: "#howget",
-                        children: "How To Get",
-                      }),
-                      (0, a.jsx)(w.default, {
-                        href: "/claim",
-                        children: "Claim",
-                      }),
+                      // (0, a.jsx)(w.default, {
+                      //   href: "#chewynomics",
+                      //   children: "Chewynomics",
+                      // }),
+                      // (0, a.jsx)(w.default, {
+                      //   href: "#howget",
+                      //   children: "How To Get",
+                      // }),
+                      // (0, a.jsx)(w.default, {
+                      //   href: "/claim",
+                      //   children: "Claim",
+                      // }),
                     ],
                   }),
                 }),
